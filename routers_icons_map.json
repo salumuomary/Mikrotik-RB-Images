@@ -1,0 +1,572 @@
+[
+  {
+    "name": "CCR1009-8G-1S-1S+PC",
+    "file path": "rb_images/1001_tm.webp",
+    "product description": "8x Gigabit Ethernet, 1xSFP cage, 1xSFP+ cage, 9 cores x 1GHz CPU, 2GB RAM, LCD panel, passive cooling desktop enclosure, SmartCard slot, RouterOS L6, PSU"
+  },
+  {
+    "name": "hAP lite",
+    "file path": "rb_images/1007_tm.webp",
+    "product description": "Low cost home wireless AP with dual chain 2.4GHz wireless, powered by USB"
+  },
+  {
+    "name": "hEX lite",
+    "file path": "rb_images/1040_tm.webp",
+    "product description": "5x Ethernet, Small plastic case, 850MHz CPU, 64MB RAM, Most affordable MPLS router, RouterOS L4"
+  },
+  {
+    "name": "CCR1072-1G-8S+",
+    "file path": "rb_images/1055_tm.webp",
+    "product description": "1U rackmount, 1x Gigabit Ethernet, 8xSFP+ cages, LCD, 72 cores x 1GHz CPU, 16GB RAM, up to 120 million packets per second, 80Gbps throughput, RouterOS L6"
+  },
+  {
+    "name": "hAP",
+    "file path": "rb_images/1059_tm.webp",
+    "product description": "2.4GHz AP, Five Ethernet ports, PoE-out on port 5, USB for 3G/4G support"
+  },
+  {
+    "name": "RB2011iLS-IN",
+    "file path": "rb_images/1106_tm.webp",
+    "product description": "Desktop metal case, 5xEthernet, 5xGigabit Ethernet, SFP cage, PoE out on port 10, 600MHz CPU, 64MB RAM, RouterOS L4"
+  },
+  {
+    "name": "RB2011iL-IN",
+    "file path": "rb_images/1107_tm.webp",
+    "product description": "Desktop metal case, 5xEthernet, 5xGigabit Ethernet, PoE out on port 10, 600MHz CPU, 64MB RAM, RouterOS L4"
+  },
+  {
+    "name": "RB2011iL-RM",
+    "file path": "rb_images/1109_tm.webp",
+    "product description": "1U rackmount, 5xEthernet, 5xGigabit Ethernet, PoE out on port 10, 600MHz CPU, 64MB RAM, RouterOS L4"
+  },
+  {
+    "name": "CCR1009-8G-1S-PC",
+    "file path": "rb_images/1155_tm.webp",
+    "product description": "8x Gigabit Ethernet, 1xSFP cage, 9 cores x 1GHz CPU, 1GB RAM, passive cooling case, RouterOS L6"
+  },
+  {
+    "name": "mAP lite",
+    "file path": "rb_images/1160_tm.webp",
+    "product description": "Tiny size 2.4GHz Dual Chain access point with a 650MHz CPU, 64MB RAM and one Ethernet"
+  },
+  {
+    "name": "hAP ac",
+    "file path": "rb_images/1169_tm.webp",
+    "product description": "Dual concurrent triple chain 2.4/5GHz AP, 802.11ac/a/n/b/g, Five Gigabit Ethernet ports, PoE-out on port 5, SFP, USB for 3G/4G support or storage"
+  },
+  {
+    "name": "hEX PoE",
+    "file path": "rb_images/1219_tm.webp",
+    "product description": "5x Gigabit Ethernet with PoE output for four ports, SFP, USB, 800MHz CPU, 128MB RAM, RouterOS L4"
+  },
+  {
+    "name": "CCR1009-7G-1C-1S+",
+    "file path": "rb_images/1228_tm.webp",
+    "product description": "1U rackmount, 7x Gigabit Ethernet, 1x Combo port (SFP or Gigabit Ethernet), 1xSFP+ cage, 9 cores x 1.2GHz CPU, 2GB RAM, LCD panel, Dual Power supplies, SmartCard slot, RouterOS L6"
+  },
+  {
+    "name": "hAP ac lite TC",
+    "file path": "rb_images/1230_tm.webp",
+    "product description": "Dual-Concurrent 2.4/5GHz AP, 802.11ac, Five Ethernet ports, PoE-out on port 5, USB for 3G/4G support, universal tower case"
+  },
+  {
+    "name": "mAP",
+    "file path": "rb_images/1238_tm.webp",
+    "product description": "Dual-Chain 2.4GHz micro AP, 650MHz CPU, 64MB RAM, 2xEthernet, PoE out"
+  },
+  {
+    "name": "cAP lite",
+    "file path": "rb_images/1272_tm.webp",
+    "product description": "Low-cost dual-chain 2.4GHz AP with wall and ceiling enclosure"
+  },
+  {
+    "name": "hAP mini",
+    "file path": "rb_images/1283_tm.webp",
+    "product description": "Tiny size home 2.4Ghz AP with three LAN ports"
+  },
+  {
+    "name": "RB1100AHx4 Dude Edition",
+    "file path": "rb_images/1285_tm.webp",
+    "product description": "Powerful 1U rackmount router with 13x Gigabit Ethernet ports, 60GB M.2 drive for Dude database"
+  },
+  {
+    "name": "PowerBox Pro",
+    "file path": "rb_images/1298_tm.webp",
+    "product description": "Five Gigabit Ethernet Router with 4xPoE-out ports, SFP cage and outdoor enclosure"
+  },
+  {
+    "name": "wAP R",
+    "file path": "rb_images/1313_tm.webp",
+    "product description": "Small weatherproof wireless access point with LTE antennas and miniPCI-e slot"
+  },
+  {
+    "name": "RB1100AHx4",
+    "file path": "rb_images/1344_tm.webp",
+    "product description": "Powerful 1U rackmount router with 13x Gigabit Ethernet ports"
+  },
+  {
+    "name": "hEX",
+    "file path": "rb_images/1405_tm.webp",
+    "product description": "5x Gigabit Ethernet, Dual Core 880MHz CPU, 256MB RAM, USB, microSD, RouterOS L4"
+  },
+  {
+    "name": "RB3011UiAS-RM",
+    "file path": "rb_images/1407_tm.webp",
+    "product description": "1U rackmount, 10xGigabit Ethernet, SFP, USB 3.0, LCD, PoE out on port 10, 2x1.4GHz CPU, 1GB RAM, RouterOS L5"
+  },
+  {
+    "name": "cAP",
+    "file path": "rb_images/1409_tm.webp",
+    "product description": "Ceiling AP, Dual-Chain 2.4GHz, 650MHz CPU, RouterOS L4, 802.3at/af support"
+  },
+  {
+    "name": "CCR1009-7G-1C-1S+PC",
+    "file path": "rb_images/1410_tm.webp",
+    "product description": "7x Gigabit Ethernet, 1x Combo port (SFP or Gigabit Ethernet), 1xSFP+ cage, 9 cores x 1GHz CPU, 2GB RAM, LCD panel, passive cooling desktop enclosure, SmartCard slot, RouterOS L6, PSU"
+  },
+  {
+    "name": "CCR1009-7G-1C-PC",
+    "file path": "rb_images/1411_tm.webp",
+    "product description": "7x Gigabit Ethernet, 1x Combo port (SFP or Gigabit Ethernet), 9 cores x 1GHz CPU, 1GB RAM, passive cooling case, RouterOS L6"
+  },
+  {
+    "name": "hEX PoE lite",
+    "file path": "rb_images/1412_tm.webp",
+    "product description": "5xEthernet with PoE output for four ports, USB, 650MHz CPU, 64MB RAM, RouterOS L4"
+  },
+  {
+    "name": "hAP ac lite",
+    "file path": "rb_images/1413_tm.webp",
+    "product description": "Dual-Concurrent 2.4/5GHz AP, 802.11ac, Five Ethernet ports, PoE-out on port 5, USB for 3G/4G support"
+  },
+  {
+    "name": "wAP ac",
+    "file path": "rb_images/1436_tm.webp",
+    "product description": "Small dual-band 2.4 / 5GHz white weatherproof wireless access point for mounting on a ceiling, wall or pole"
+  },
+  {
+    "name": "wAP",
+    "file path": "rb_images/1437_tm.webp",
+    "product description": "Small weatherproof wireless access point for mounting on a ceiling, wall or pole"
+  },
+  {
+    "name": "wAP BE",
+    "file path": "rb_images/1438_tm.webp",
+    "product description": "Small weatherproof wireless access point for mounting on a ceiling, wall or pole. In black"
+  },
+  {
+    "name": "wAP ac BE",
+    "file path": "rb_images/1439_tm.webp",
+    "product description": "Small dual-band 2.4 / 5GHz black weatherproof wireless access point for mounting on a ceiling, wall or pole"
+  },
+  {
+    "name": "PowerBox",
+    "file path": "rb_images/1446_tm.webp",
+    "product description": "650MHz CPU, 64MB RAM, 5xEthernet with PoE output for four ports, RouterOS L4, outdoor case, PSU"
+  },
+  {
+    "name": "cAP ac",
+    "file path": "rb_images/1447_tm.webp",
+    "product description": "Dual-band 2.4 / 5GHz wireless access point for mounting on a ceiling or wall with two Gigabit Ethernet ports (one with PoE output), 802.11ac support and IPsec hardware encryption support"
+  },
+  {
+    "name": "hAP ac²",
+    "file path": "rb_images/1468_tm.webp",
+    "product description": "Dual-Concurrent 2.4/5GHz AP, 802.11a/b/g/n/ac, Five Gigabit Ethernet ports, USB for 3G/4G support, universal tower case and IPsec hardware encryption support"
+  },
+  {
+    "name": "wsAP ac lite",
+    "file path": "rb_images/1490_tm.webp",
+    "product description": "In-wall Dual Concurrent 2.4GHz / 5GHz wireless access point with three Ethernet ports and telephone jack pass through for hospitality networks"
+  },
+  {
+    "name": "RB2011UiAS-IN",
+    "file path": "rb_images/1504_tm.webp",
+    "product description": "Desktop metal case, 5xEthernet, 5xGigabit Ethernet, USB, LCD, PoE out on port 10, 600MHz CPU, 128MB RAM, RouterOS L5"
+  },
+  {
+    "name": "RB2011UiAS-RM",
+    "file path": "rb_images/1505_tm.webp",
+    "product description": "1U rackmount, 5xEthernet, 5xGigabit Ethernet, USB, LCD, PoE out on port 10, 600MHz CPU, 128MB RAM, RouterOS L5"
+  },
+  {
+    "name": "hEX S",
+    "file path": "rb_images/1539_tm.webp",
+    "product description": "5x Gigabit Ethernet, SFP, Dual Core 880MHz CPU, 256MB RAM, USB, microSD, RouterOS L4, IPsec hardware encryption support and The Dude server package"
+  },
+  {
+    "name": "RB2011UiAS-2HnD-IN",
+    "file path": "rb_images/1606_tm.webp",
+    "product description": "2.4GHz AP, 5x Ethernet, 5x Gigabit Ethernet, SFP cage, USB, LCD, PoE output on Eth10, 600MHz CPU, 128MB RAM"
+  },
+  {
+    "name": "RB4011iGS+5HacQ2HnD-IN",
+    "file path": "rb_images/1630_tm.webp",
+    "product description": "Powerful 10xGigabit port router with a Quad-core 1.4Ghz CPU, 1GB RAM, SFP+ 10Gbps cage, dual band 2.4GHz / 5GHz 4x4 MIMO 802.11a/b/g/n/ac wireless and desktop case"
+  },
+  {
+    "name": "RB4011iGS+RM",
+    "file path": "rb_images/1633_tm.webp",
+    "product description": "Powerful 10xGigabit port router with a Quad-core 1.4Ghz CPU, 1GB RAM, SFP+ 10Gbps cage and desktop case with rack ears"
+  },
+  {
+    "name": "RB750G",
+    "file path": "rb_images/1678_tm.webp",
+    "product description": "Gigabit ports SOHO ethernet router Small and affordable"
+  },
+  {
+    "name": "CCR1036-8G-2S+",
+    "file path": "rb_images/1738_tm.webp",
+    "product description": "1U rackmount, 8x Gigabit Ethernet, 2xSFP+ cages, LCD, 36 cores x 1.2GHz CPU, 4GB RAM, 41.5mpps fastpath, Up to 28Gbit/s throughput, RouterOS L6, Dual PSU"
+  },
+  {
+    "name": "CCR1036-8G-2S+EM",
+    "file path": "rb_images/1740_tm.webp",
+    "product description": "1U rackmount, 8x Gigabit Ethernet, 2xSFP+ cages, LCD, 36 cores x 1.2GHz CPU, 8GB RAM, 41.5mpps fastpath, Up to 28Gbit/s throughput, RouterOS L6, Dual PSU"
+  },
+  {
+    "name": "hAP lite TC",
+    "file path": "rb_images/1766_tm.webp",
+    "product description": "Small home AP with four ethernet ports and a colorful enclosure."
+  },
+  {
+    "name": "CCR1016-12G",
+    "file path": "rb_images/1818_tm.webp",
+    "product description": "1U rackmount, 12x Gigabit Ethernet, LCD, 16 cores x 1.2GHz CPU, 2GB RAM, 17.8mpps fastpath, Up to 12Gbit/s throughput, RouterOS L6, Dual PSU"
+  },
+  {
+    "name": "CCR1036-12G-4S-EM",
+    "file path": "rb_images/1819_tm.webp",
+    "product description": "1U rackmount, 12x Gigabit Ethernet, 4xSFP cages, LCD, 36 cores x 1.2GHz CPU, 8GB RAM, 24 mpps fastpath, Up to 16Gbit/s throughput, RouterOS L6, Dual PSU"
+  },
+  {
+    "name": "CCR1036-12G-4S",
+    "file path": "rb_images/1820_tm.webp",
+    "product description": "1U rackmount, 12x Gigabit Ethernet, 4xSFP cages, LCD, 36 cores x 1.2GHz CPU, 4GB RAM, 24 mpps fastpath, Up to 16Gbit/s throughput, RouterOS L6, Dual PSU"
+  },
+  {
+    "name": "CCR1016-12S-1S+",
+    "file path": "rb_images/1824_tm.webp",
+    "product description": "1U rackmount, 12xSFP cage, 1xSFP+ cage, 16 cores x 1.2GHz CPU, 2GB RAM, LCD panel, Dual Power supplies, RouterOS L6"
+  },
+  {
+    "name": "Audience",
+    "file path": "rb_images/1854_tm.webp",
+    "product description": "Tri-band (one 2.4 GHz & two 5 GHz) home access point with meshing technology"
+  },
+  {
+    "name": "Audience LTE6 kit",
+    "file path": "rb_images/1857_tm.webp",
+    "product description": "Tri-band (one 2.4 GHz & two 5 GHz) home access point with LTE CAT6 support and meshing technology"
+  },
+  {
+    "name": "Chateau LTE12",
+    "file path": "rb_images/1914_tm.webp",
+    "product description": "One router to delight them all – introducing the ultimate home AP with LTE support"
+  },
+  {
+    "name": "hAP ac³ LTE6 kit",
+    "file path": "rb_images/1931_tm.webp",
+    "product description": "A wireless dual-band router with LTE support and 5 Gigabit Ethernet ports. The right choice for most homes!"
+  },
+  {
+    "name": "CCR2004-1G-12S+2XS",
+    "file path": "rb_images/1935_tm.webp",
+    "product description": "The Connectivity Router - your best companion when it comes to SFP, SFP+ and SFP28 management! 1, 10 and 25 Gbps ports in a single device to make your life easier."
+  },
+  {
+    "name": "hAP ac³",
+    "file path": "rb_images/1975_tm.webp",
+    "product description": "A wireless dual-band router with 5 Gigabit Ethernet ports and external high gain antennas for more coverage."
+  },
+  {
+    "name": "wAP ac",
+    "file path": "rb_images/1988_tm.webp",
+    "product description": "wAP ac – a small dual-band weatherproof wireless access point for mounting on a pole, wall, or the ceiling. The new revision features 2x Gigabit Ethernet ports, enhanced wireless antenna performance, more RAM, and a powerful quad-core CPU!"
+  },
+  {
+    "name": "wAP ac BE",
+    "file path": "rb_images/1993_tm.webp",
+    "product description": "wAP ac – a small dual-band weatherproof wireless access point for mounting on a pole, wall, or the ceiling. The new revision features 2x Gigabit Ethernet ports, enhanced wireless antenna performance, more RAM, and a powerful quad-core CPU!"
+  },
+  {
+    "name": "KNOT",
+    "file path": "rb_images/2035_tm.webp",
+    "product description": "IoT Gateway for the most versatile and cost-effective setups"
+  },
+  {
+    "name": "Chateau 5G",
+    "file path": "rb_images/2049_tm.webp",
+    "product description": "One router to delight them all – introducing the ultimate home AP with ultra-fast LTE/5G support"
+  },
+  {
+    "name": "RB5009UG+S+IN",
+    "file path": "rb_images/2065_tm.webp",
+    "product description": "The ultimate heavy-duty home lab router with USB 3.0, 1G and 2.5G Ethernet and a 10G SFP+ cage. You can mount four of these new routers in a single 1U rackmount space! Unprecedented processing power in such a small form factor."
+  },
+  {
+    "name": "cAP XL ac",
+    "file path": "rb_images/2099_tm.webp",
+    "product description": "The ceiling AP on steroids! Our bestseller cAP is back – juiced up and stronger than ever. Compared to the previous cAP models, the improved high-gain antenna increases the covered area by up to 100%!"
+  },
+  {
+    "name": "CCR2216-1G-12XS-2XQ",
+    "file path": "rb_images/2122_tm.webp",
+    "product description": "The new MikroTik flagship with the power of a whole fleet. Unleash the power of 100 Gigabit networking with L3 Hardware Offloading! This router can be a handy drop-in upgrade for existing CCR1072 setups."
+  },
+  {
+    "name": "CCR2004-1G-12XS-PCIe",
+    "file path": "rb_images/2128_tm.webp",
+    "product description": "A smart PCIe network interface card that adds full-fledged router capabilities to your servers. The smart and easy way to create 25 Gigabit networks if you want to save space in your server room!"
+  },
+  {
+    "name": "Chateau LTE6-US",
+    "file path": "rb_images/2187_tm.webp",
+    "product description": "US carrier-certified (AT&T, T-Mobile) home access point with LTE6 support for speeds up to 300 Mbps. With 5x Gigabit Ethernet ports, a powerful quad-core CPU, and a refreshingly tasteful design, this device is the right choice for most homes."
+  },
+  {
+    "name": "RB5009UPr+S+IN",
+    "file path": "rb_images/2190_tm.webp",
+    "product description": "A new version of our popular heavy-duty RB5009 router with PoE-in and PoE-out on all ports. Perfect for small and medium ISPs. 2.5 Gigabit Ethernet & 10 Gigabit SFP+, numerous powering options."
+  },
+  {
+    "name": "hAP ax²",
+    "file path": "rb_images/2203_tm.webp",
+    "product description": "A Generation 6 version of the legendary hAP ac². With PoE-in and PoE-out, much faster wireless, more RAM, and a modern CPU. The smallest fully-fledged AX router on the market!"
+  },
+  {
+    "name": "Chateau LTE18 ax",
+    "file path": "rb_images/2205_tm.webp",
+    "product description": "The best home AP just got even better. Generation 6 version of the Chateau LTE18. Much faster wireless, improved CPU, and now – with 2.5 Gigabit Ethernet!"
+  },
+  {
+    "name": "hAP ax³",
+    "file path": "rb_images/2211_tm.webp",
+    "product description": "Our top-of-the-line AX home access point. With all the processing power and speed your household might ever need. Gen 6 wireless, 2.5 Gigabit Ethernet, PoE, WPA3, and more!"
+  },
+  {
+    "name": "hAP ax lite",
+    "file path": "rb_images/2225_tm.webp",
+    "product description": "Gen6 wireless on a budget – tiny, fast, and strong enough to harvest the power of RouterOS v7!"
+  },
+  {
+    "name": "cAP ax",
+    "file path": "rb_images/2247_tm.webp",
+    "product description": "The best-selling ceiling access point is back – stronger than ever! A new generation of wireless greatness for your office, hotel, mall, or any other setups in crowded areas. Modern quad-core CPU, 1GB of RAM, 2x Gigabit Ethernet ports, PoE, Gen 6 802.11ax wireless, PSU – included!"
+  },
+  {
+    "name": "RB5009UPr+S+OUT",
+    "file path": "rb_images/2250_tm.webp",
+    "product description": "An outdoor version of our best-selling heavy-duty PoE router. Extensive power redundancy for the best price! 7x Gigabit Ethernet ports, 1x 2.5 Gigabit Ethernet, 10G SFP+, 1GB of RAM, 1GB NAND, modern quad-core CPU, 9 (!) powering options, durable IP66 waterproof enclosure."
+  },
+  {
+    "name": "Chateau LTE6",
+    "file path": "rb_images/2257_tm.webp",
+    "product description": "Your best friend when it comes to affordable mobile networks. Amazing in the hands of seasoned system administrators. Or in a household with zero IT skills. Chateau can do it all. For mobile operators who want the best for their clients without breaking the bank."
+  },
+  {
+    "name": "L009UiGS-2HaxD-IN",
+    "file path": "rb_images/2263_tm.webp",
+    "product description": "L009 is more than just a router. This product line is up to 4 times faster than RB2011, it has a modern ARM CPU with container support, an innovative enclosure that allows mounting up to four routers in a single 1U space, more RAM, PoE, and 2.5G SFP support. This version comes with 2.4 GHz ax dual-chain wireless."
+  },
+  {
+    "name": "L009UiGS-RM",
+    "file path": "rb_images/2267_tm.webp",
+    "product description": "L009 is more than just a router. This product line is up to 4 times faster than RB2011, it has a modern ARM CPU with container support, an innovative enclosure that allows mounting up to four routers in a single 1U space, more RAM, PoE, and 2.5G SFP support. This version comes with 1U rackmount accessories."
+  },
+  {
+    "name": "hAP ax lite LTE6",
+    "file path": "rb_images/2318_tm.webp",
+    "product description": "Our most affordable LTE home access point - tiny, fast, and strong enough to harvest the power of RouterOS v7!"
+  },
+  {
+    "name": "hEX refresh",
+    "file path": "rb_images/2408_tm.webp",
+    "product description": "The classic hEX refresh: same price, twice the performance! The staple of affordable routing for every home is back – stronger than ever due to the modern ARM CPU and extra RAM."
+  },
+  {
+    "name": "wAP ax",
+    "file path": "rb_images/2410_tm.webp",
+    "product description": "wAP ax brings fast and reliable Wi-Fi 6 to your countryside getaway or any other challenging environments – like a rural gas station or a bus stop."
+  },
+  {
+    "name": "Chateau PRO ax",
+    "file path": "rb_images/2414_tm.webp",
+    "product description": "A Wi-Fi 6 home access point for the advanced users – it comes with an exceptionally powerful wireless system and a matching CPU."
+  },
+  {
+    "name": "ROSE Data server (RDS)",
+    "file path": "rb_images/2438_tm.webp",
+    "product description": "RDS is a high-performance, all-in-one storage, 100G networking, and container platform designed for enterprise environments. Featuring 20 U.2 NVMe storage slots and a special RouterOS Edition for Storage & Compute (ROSE)."
+  },
+  {
+    "name": "hEX S (2025)",
+    "file path": "rb_images/2458_tm.webp",
+    "product description": "A compact, affordable wired router featuring a 2.5G SFP port, 5x Gigabit Ethernet, PoE out, USB, and a fast dual-core CPU – ideal for homes, offices, or underfunded labs that need reliable performance."
+  },
+  {
+    "name": "hAP ax S",
+    "file path": "rb_images/2502_tm.webp",
+    "product description": "Our most cost-effective Wi-Fi 6 access point yet. Triple-chain 5 GHz radio (up to 900 Mbit/s throughput), dual-band Wi-Fi 6, 5x Gigabit Ethernet ports, and a 2.5G SFP. Powered by a dual-core ARM CPU, with PoE-in/PoE-out flexibility, a standard DC jack, USB, and a sturdy high-end enclosure that can be mounted on the wall."
+  },
+  {
+    "name": "CCR2004-16G-2S+",
+    "file path": "rb_images/2563_tm.webp",
+    "product description": "This powerful and affordable router crushes all previous CCR models in single-core performance. 16x Gigabit Ethernet ports, USB, 2x10G SFP+ cages, active cooling and the best single-core performance per watt & best overall performance per watt among all the CCR devices."
+  },
+  {
+    "name": "hAP be³ Media",
+    "file path": "rb_images/2618_tm.webp",
+    "product description": "A powerful Wi-Fi 7 home router and media hub combining triple-band wireless, five 2.5G Ethernet ports, built-in Matter/Thread smart home support, and a quad-core ARM CPU for containers, storage, and advanced networking."
+  },
+  {
+    "name": "CCR2116-12G-4S+",
+    "file path": "rb_images/2625_tm.webp",
+    "product description": "Forget about CPU limitations in 10G setups with this powerful 16-core ARM CPU based CCR. Double the performance of our previous 36- core CCR, 6x faster BGP performance. Includes an M.2 PCIe slot."
+  },
+  {
+    "name": "CCR2004-16G-2S+PC",
+    "file path": "rb_images/2634_tm.webp",
+    "product description": "Up to 300% faster than the previous CCR1009 routers - in a blissful silence! Luxury you deserve for the price you can afford. 16x Gigabit Ethernet ports, 2x10G SFP+ cages."
+  },
+  {
+    "name": "RB2011LS",
+    "file path": "rb_images/647_tm.webp",
+    "product description": "600MHz CPU, 64MB RAM, 5xEthernet, 5xGigabit Ethernet, SFP cage, RouterOS L4"
+  },
+  {
+    "name": "RB750UP",
+    "file path": "rb_images/672_tm.webp",
+    "product description": "5xEthernet with PoE output for four ports, USB, 400MHz CPU, 32MB RAM, RouterOS L4"
+  },
+  {
+    "name": "RB750GL",
+    "file path": "rb_images/673_tm.webp",
+    "product description": "5x Gigabit Ethernet, 400Mhz CPU, 64MB RAM, RouterOS L4"
+  },
+  {
+    "name": "RB2011L",
+    "file path": "rb_images/674_tm.webp",
+    "product description": "600MHz CPU, 64MB RAM, 5xEthernet, 5xGigabit Ethernet, RouterOS L4"
+  },
+  {
+    "name": "RB2011UiAS-2HnD",
+    "file path": "rb_images/677_tm.webp",
+    "product description": "600MHz CPU, 128MB RAM, 5xEthernet, 5xGigabit Ethernet, SFP cage, 1000mW 2.4Ghz onboard, USB, RouterOS L5"
+  },
+  {
+    "name": "CCR1016-12G-BU",
+    "file path": "rb_images/679_tm.webp",
+    "product description": "16 cores x 1.2Ghz CPU, 2GB RAM, 12xGigabit Ethernet, LCD and power supply, RouterOS L6"
+  },
+  {
+    "name": "RB1100AHx2",
+    "file path": "rb_images/718_tm.webp",
+    "product description": "1U rackmount, 13x Gigabit Ethernet, 1066MHz Dual Core CPU, 2GB RAM, RouterOS L6"
+  },
+  {
+    "name": "RB751G-2HnD",
+    "file path": "rb_images/853_tm.webp",
+    "product description": "perfect SOHO AP five Gigabit Ethernet 1000mW 2.4Ghz wireless USB"
+  },
+  {
+    "name": "RB1200",
+    "file path": "rb_images/858_tm.webp",
+    "product description": "Low cost rackmount 10x Gigabit ports No moving parts"
+  },
+  {
+    "name": "RB1100AH",
+    "file path": "rb_images/868_tm.webp",
+    "product description": "High speed rackmount 484000pps 13 Gigabit ports 1Ghz CPU 2GB RAM"
+  },
+  {
+    "name": "RB1100Hx2",
+    "file path": "rb_images/869_tm.webp",
+    "product description": "One million pps Dual Core 1GHz CPU's 13x Gigabit Ethernet 1U rackmount"
+  },
+  {
+    "name": "RB1100",
+    "file path": "rb_images/873_tm.webp",
+    "product description": "Top of the line rackmount 13 Gigabit ports Two bypass ports"
+  },
+  {
+    "name": "RB1000U",
+    "file path": "rb_images/875_tm.webp",
+    "product description": "Top of the line Highest speed product Rackmountable"
+  },
+  {
+    "name": "RB1000",
+    "file path": "rb_images/876_tm.webp",
+    "product description": "Top of the line Highest speed product"
+  },
+  {
+    "name": "RB951-2n",
+    "file path": "rb_images/897_tm.webp",
+    "product description": "2.4GHz 50mW AP, 5xEthernet, 400MHz CPU, 32MB RAM"
+  },
+  {
+    "name": "RB751U-2HnD",
+    "file path": "rb_images/898_tm.webp",
+    "product description": "2.4Ghz 1000mW AP, 5xEthernet, USB, 400MHz CPU, 32MB RAM,"
+  },
+  {
+    "name": "RB951Ui-2HnD",
+    "file path": "rb_images/902_tm.webp",
+    "product description": "2.4GHz AP with five Ethernet ports and PoE output on port 5. It has a 600MHz CPU, 128MB RAM and a USB port."
+  },
+  {
+    "name": "RB951G-2HnD",
+    "file path": "rb_images/903_tm.webp",
+    "product description": "2.4Ghz AP, 5xGigabit Ethernet, USB, 600MHz CPU, 128MB RAM"
+  },
+  {
+    "name": "RB1100AHx2-LM",
+    "file path": "rb_images/908_tm.webp",
+    "product description": "1U rackmount, 13x Gigabit Ethernet, 1066MHz Dual Core CPU, 512MB RAM, RouterOS L6"
+  },
+  {
+    "name": "CCR1009-8G-1S",
+    "file path": "rb_images/916_tm.webp",
+    "product description": "1U rackmount, 8x Gigabit Ethernet, 1xSFP cage, 9 cores x 1.2GHz CPU, 1GB RAM, RouterOS L6"
+  },
+  {
+    "name": "CCR1009-8G-1S-1S+",
+    "file path": "rb_images/917_tm.webp",
+    "product description": "1U rackmount, 8x Gigabit Ethernet, 1xSFP cage, 1xSFP+ cage, 9 cores x 1.2GHz CPU, 2GB RAM, LCD panel, Dual Power supplies, SmartCard slot, RouterOS L6"
+  },
+  {
+    "name": "Dell",
+    "file path": "rb_images/Dell-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  },
+  {
+    "name": "Fujitsu",
+    "file path": "rb_images/Fujitsu-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  },
+  {
+    "name": "Hewlett-Packard",
+    "file path": "rb_images/Hewlett-Packard-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  },
+  {
+    "name": "Lenovo Vibe K4 Note",
+    "file path": "rb_images/Lenovo_Vibe_K4_Note-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  },
+  {
+    "name": "Samsung Electronics",
+    "file path": "rb_images/Samsung_Electronics-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  },
+  {
+    "name": "ThinkPad",
+    "file path": "rb_images/ThinkPad-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  },
+  {
+    "name": "Toshiba",
+    "file path": "rb_images/Toshiba-Logo.webp",
+    "product description": "x86 hardware for RouterOS installation"
+  }
+]
